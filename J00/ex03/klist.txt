@@ -1,0 +1,24 @@
+Credentials cache: API:16142
+        Principal: salassam@42.FR
+    Cache version: 0
+
+Server: krbtgt/42.FR@42.FR
+Client: salassam@42.FR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 304
+Auth time:  Oct 14 22:05:24 2015
+End time:   Oct 15 08:04:55 2015
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
+
+Server: host/vogsphere-frontend-normal-1.42.fr@42.FR
+Client: salassam@42.FR
+Ticket etype: arcfour-hmac-md5, kvno 5
+Session key: aes256-cts-hmac-sha1-96
+Ticket length: 347
+Auth time:  Oct 14 22:05:24 2015
+Start time: Oct 14 22:07:01 2015
+End time:   Oct 15 08:04:55 2015
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
+
